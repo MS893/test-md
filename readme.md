@@ -1,6 +1,6 @@
 > **MODULE** **-** **03**
 >
-> <img src="./5w0kwnoe.png"
+> 
 > style="width:7.48032in;height:0.64831in" />**GUIDE** **DE**
 > **L’INSTRUCTEUR** **VFR**
 >
@@ -254,3 +254,4 @@ commentée.
 >
 > En fonction du niveau d’accoutumance préalable du stagiaire, les
 > leçons 1 et 2 peuvent être groupées.
+
